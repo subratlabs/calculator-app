@@ -1,7 +1,7 @@
 # Calculator App
 
 ## Screenshot
-![Calculator App](calculator_app.jpg
+![Calculator App](calculator_app.jpg)
 
 A Python GUI calculator built with Tkinter that performs basic arithmetic operations.
 
